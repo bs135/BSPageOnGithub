@@ -11,7 +11,7 @@ email: bluesea.it@gmail.com
 hometown: HCMC, Vietnam
 
 description: > # this means to ignore newlines until "baseurl:"
-  TechTag: Hardware Design, Altium Designer, C# WinForm, C# WPF, C# ASP.NET MVC
+  Tag: Hardware Design, Altium Designer, C# WinForm, C# WPF, C# ASP.NET MVC
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bs135.github.io" # the base hostname & protocol for your site
 twitter_username: bsn135
@@ -23,3 +23,6 @@ footer_name: BS Nguyen
 
 # Build settings
 markdown: kramdown
+
+# Deloy
+destination:  ../bs135.github.io
