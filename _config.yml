@@ -1,0 +1,25 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: BS' Page
+email: bluesea.it@gmail.com
+hometown: HCMC, Vietnam
+
+description: > # this means to ignore newlines until "baseurl:"
+  TechTag: Hardware Design, Altium Designer, C# WinForm, C# WPF, C# ASP.NET MVC
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://bs135.github.io" # the base hostname & protocol for your site
+twitter_username: bsn135
+github_username: bs135
+facebook_username: bs135
+
+footer_heading: About me
+footer_name: BS Nguyen
+
+# Build settings
+markdown: kramdown
