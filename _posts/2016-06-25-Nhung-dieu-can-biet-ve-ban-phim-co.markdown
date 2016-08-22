@@ -78,14 +78,17 @@ Có nhiều loại switch khác nhau với những đặc tính khác nhau tùy 
 
 Đặc điểm chính của các loại switch cơ bản cho bàn phím cơ:
 
-{:.table .table-bordered}
+{:.table .table-bordered .table-striped .table-hover}
 |               			| Cherry MX Blue    | Cherry MX Brown  		| Cherry MX Red 			|Cherry MX Black			|
 | --------------------------|-------------------| ----------------------|---------------------------|---------------------------|
-| Loại switch      			| Tactile & Clicky	| Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky	|
+| Loại switch      			| Tactile & 	| Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky	|
 | Lực nhấn      			| 50g     			| 45g   				| 45g 						| 60g						|
 | Hành trình phím 			| 4mm      			| 4mm       			| 4mm      					| 4mm      					|
 | Điểm nhận thao tác phím	| 2mm				| 2mm 					| 2mm 						| 2mm 						|
 | Độ bền					| 50 triệu 			| 50 triệu 				| 50 triệu 					| 50 triệu 					|
+
+* Clicky: Có tiếng click
+* Tactile: Có khấc
 
 #### Cherry MX Blue switch
 
@@ -120,7 +123,7 @@ Không tiếng click, không khấc.
 
 Cấu tạo tương tự với red switch nhưng nặng hơn. Là loại switch nặng nhất. Thích hợp cho game thủ cảm thấy red switch quá nhẹ.
 
-(_xem thêm: [vietnammechkey.com](http://vietnammechkey.com/threads/faq-tong-hop-cac-loai-cherry-switch.7.html/)_)
+(_nguồn: [vietnammechkey.com](http://vietnammechkey.com/threads/faq-tong-hop-cac-loai-cherry-switch.7.html/)_)
 
 ---------------------
 
@@ -154,7 +157,7 @@ Layout JIS được sử dụng rất là phổ biến ở quê hương của Fi
 
 ![JIS layout basic](/images/616px-JIS_layout_basic.svg.png "JIS layout basic")
 
-(_xem chi tiết tại: [vietnammechkey.com](http://vietnammechkey.com/threads/cac-loai-kich-co-layout-ban-phim.263.html)_)
+(_nguồn: [vietnammechkey.com](http://vietnammechkey.com/threads/cac-loai-kich-co-layout-ban-phim.263.html)_)
 
 ---------------------
 
