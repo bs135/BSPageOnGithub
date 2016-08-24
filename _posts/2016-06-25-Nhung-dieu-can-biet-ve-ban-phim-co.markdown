@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Những điều cần biết về bàn phím cơ"
-categories: keyboard
+categories: note
 ---
 
 ## Bàn phím cơ là gì?

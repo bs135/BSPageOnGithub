@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building AVR Toolchain for Windows"
-categories: avr
+categories: note
 ---
 
 ## Introduction

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build static websites and blog with Jekyll!"
-categories: web
+categories: note
 ---
 
 ## Introduction
