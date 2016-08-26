@@ -81,7 +81,7 @@ Có nhiều loại switch khác nhau với những đặc tính khác nhau tùy 
 {:.table .table-bordered .table-striped .table-hover}
 |               			| Cherry MX Blue    | Cherry MX Brown  		| Cherry MX Red 			|Cherry MX Black			|
 | --------------------------|-------------------| ----------------------|---------------------------|---------------------------|
-| Loại switch      			| Tactile & 	| Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky	|
+| Loại switch      			| Tactile & Clicky	| Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky 	| Non-Tactile & Non-Clicky	|
 | Lực nhấn      			| 50g     			| 45g   				| 45g 						| 60g						|
 | Hành trình phím 			| 4mm      			| 4mm       			| 4mm      					| 4mm      					|
 | Điểm nhận thao tác phím	| 2mm				| 2mm 					| 2mm 						| 2mm 						|
