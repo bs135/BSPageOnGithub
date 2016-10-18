@@ -20,6 +20,8 @@ To compiling a avr source on windows, you can make either way:
 	* It is a native Windows port of the GNU Compiler Collection (GCC), a minimalist development environment for native Microsoft Windows applications. 
 	* Download and Install from [Sourceforge](https://sourceforge.net/projects/mingw/files/latest/download?source=files)
 	* Install necessary MSYS packages: msys-base, msys-make, msys-core, msys-bash.
+	* Update PATH environment variable to folder:
+		* `C:\MinGW\msys\1.0\bin`
 	* For testing, you can type command `make --version` in a Window Command Prompt.
 * [AVR Toolchain][AVR Toolchain] for Windows
 	* Download
@@ -28,7 +30,7 @@ To compiling a avr source on windows, you can make either way:
 	* Install: extract downloaded packages to you disk, eg.:
 		* `C:\atmel\avr8-gnu-toolchain`
 		* `C:\atmel\avr32-gnu-toolchain`
-	* Update PATH environment variable to these folder:
+	* Update PATH environment variable to these folders:
 		* `C:\atmel\avr8-gnu-toolchain\bin`
 		* `C:\atmel\avr32-gnu-toolchain\bin`
 	* For testing, you can type command `avr-gcc --version` or `avr32-gcc --version` in a Window Command Prompt.
